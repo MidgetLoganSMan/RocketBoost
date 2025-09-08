@@ -6,7 +6,7 @@ public class Coindestroy : MonoBehaviour
     
 
 
-    private void OnCollisionEnter(Collision other)
+    private void OnTriggerEnter(Collider other)
 
     {
 
